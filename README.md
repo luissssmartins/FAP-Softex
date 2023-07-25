@@ -9,3 +9,7 @@ Este repositório consistirá em abrigar todos os códigos e tarefas desenvolvid
 * JavaScript
 * Frameworks (React JS, Next JS)
 * Java
+
+## Repositório do conteúdo
+
+* Em breve...
